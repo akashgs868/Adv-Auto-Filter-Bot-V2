@@ -74,7 +74,7 @@ You can deploy this bot anywhere.
 <p>
 <br>
 <a href="https://github.com/AlbertEinsteinTG/af-deployt">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy? template=https://github.com/akashgs868">
 </a>
 </p>
 </details>
